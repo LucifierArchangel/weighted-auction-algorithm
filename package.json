@@ -1,0 +1,26 @@
+{
+    "name": "weighted-auction-algorithm",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon src/index.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LucifierArchangel/weighted-auction-algorithm.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LucifierArchangel/weighted-auction-algorithm/issues"
+    },
+    "homepage": "https://github.com/LucifierArchangel/weighted-auction-algorithm#readme",
+    "devDependencies": {
+        "@types/node": "^20.8.7",
+        "nodemon": "^3.0.1",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.2.2"
+    }
+}
