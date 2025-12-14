@@ -5,8 +5,7 @@
     "main": "dist/index.js",
     "scripts": {
         "start": "nodemon src/index.ts",
-        "build": "tsc",
-        "preinstall": "npm run build"
+        "build": "tsc"
     },
     "repository": {
         "type": "git",
